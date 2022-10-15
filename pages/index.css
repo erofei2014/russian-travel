@@ -7,7 +7,7 @@
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__lang-links/header__lang-links.css');
 @import url('../blocks/header/__lang-link/header__lang-link.css');
-@import url('../blocks/header/__lang-link/_activity/header__lang-link_activity_on.css');
+@import url('../blocks/header/__lang-link/_active/header__lang-link_active.css');
 
 @import url('../blocks/logo/logo.css');
 
@@ -36,31 +36,15 @@
 @import url('../blocks/places/__website/places__website.css');
 @import url('../blocks/places/__url-heading/places__url-heading.css');
 @import url('../blocks/places/__link/places__link.css');
-@import url('../blocks/places/__images/places__images.css');
-@import url('../blocks/places/__images/_image/places__images_image_altai.css');
-@import url('../blocks/places/__images/_image/places__images_image_baikal.css');
-@import url('../blocks/places/__images/_image/places__images_image_karelia.css');
-@import url('../blocks/places/__images/_image/places__images_image_kolsky.css');
-@import url('../blocks/places/__images/_image/places__images_image_kosa.css');
+@import url('../blocks/places/__image/places__image.css');
 @import url('../blocks/places/__paragraph/places__paragraph.css');
 
 @import url('../blocks/cover/cover.css');
 @import url('../blocks/cover/__title/cover__title.css');
 @import url('../blocks/cover/__subtitle/cover__subtitle.css');
-@import url('../blocks/cover/__background/cover__background.css');
 @import url('../blocks/cover/__overlay/cover__overlay.css');
 
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__links/footer__links.css');
 @import url('../blocks/footer/__link/footer__link.css');
 @import url('../blocks/footer/__copyright/footer__copyright.css');
-
-/*
-* {
-  border: 1px solid red;
-}
-
-.logo, .lead__image {
-  border: 1px solid red;
-}
-*/

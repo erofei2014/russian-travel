@@ -6,6 +6,13 @@
   padding: 0;
   margin: 0;
   box-sizing: content-box;
+  text-decoration: none;
+}
+
+/*При наведении курсора на ссылку, она становится прозрачнее с интервалом 30мс*/
+.header__lang-link:hover {
+  opacity: 0.8;
+  transition: 30ms;
 }
 
 @media screen and (max-width: 720px) {
